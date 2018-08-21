@@ -1,0 +1,7 @@
+Harvest a Field
+# first street, first avenue, num streets, num avenues showing
+0 0 5 5
+# intersection size (in pixels)
+38
+# things
+   becker.robots.Thing 1 2
